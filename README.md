@@ -2,7 +2,7 @@
 
 👋 27 yo Brazilian 🇧🇷 living in Europe 🇵🇹
 
-🏦 Currently working as Cloud Delivery Lead at [Millenniun BCP](https://www.millenniumbcp.pt/) in Lisbon, Portugal
+🏦 Currently working as Cloud Solutions Architect at [Darede]( https://darede.com.br/) in Lisbon, Portugal
 
 💭 I share some thoughts at [contains(cloud)](https://containscloud.com) ☁️
 
