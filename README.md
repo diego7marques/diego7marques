@@ -1,8 +1,10 @@
 ## Hi, I'm Diego :v:
 
-👋 27 yo Brazilian 🇧🇷 living in Europe 🇵🇹
+👋 28 yo Brazilian 🇧🇷 living in Europe 🇵🇹
 
 🏦 Currently working as Cloud Solutions Architect at [Darede]( https://darede.com.br/) in Lisbon, Portugal
+
+👥 I'm part of the AWS UserGroup Lisbon team: [AWS User Group Lisbon](https://www.meetup.com/aws-user-group-lisbon/)
 
 💭 I share some thoughts at [contains(cloud)](https://containscloud.com) ☁️
 
