@@ -2,7 +2,7 @@
 
 👋 28 yo Brazilian 🇧🇷 living in Europe 🇵🇹
 
-🏦 Currently working as Cloud Solutions Architect at [Darede]( https://darede.com.br/) in Lisbon, Portugal
+🏦 Currently working as Country Manager at [Darede]( https://darede.com.br/) in Lisbon, Portugal
 
 👥 I'm part of the AWS UserGroup Lisbon team: [AWS User Group Lisbon](https://www.meetup.com/aws-user-group-lisbon/)
 
